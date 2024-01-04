@@ -1,0 +1,124 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.head{
+    height: 30%;
+    width: 80%;
+    text-align: center;
+    margin: 5px;
+    margin-left: 140px;
+   
+}
+
+.head1{
+    font-weight: bold;
+    height: 30%;
+    width: 100%;
+    background-color: blue;
+    font-size: 50px;
+    text-transform: uppercase;
+    padding-top: 5px;
+}
+.head2{
+    height: 30%;
+    width: 100%;
+    font-size: 25px;
+    background-color: orange;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 15px;
+}
+.head3{
+    height: 30%;
+    width: 100%;
+    font-size: 25px;
+    background-color:lightgreen;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 15px;
+}
+
+.head2nd{
+  
+    height: 40%;
+    width: 80%; 
+    margin-left: 140px;
+}
+
+table td{
+    border: 1px solid black;
+    text-align: center;
+}
+
+table{
+    
+    font-size: 30px;
+}
+
+.tr1{
+    background-color: yellow;
+    font-weight: 900;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.tdbio{
+    color: red;
+    font-weight: 900;
+    font-size: 40px;
+    text-transform: uppercase;
+    background-color: cadetblue;
+}
+
+.tr2{
+    background-color: cadetblue;
+    font-weight: 900;
+}
+
+.tdcol{
+    font-size: large;
+}
+td{
+    padding: 20px;
+    width: 100%;
+}
+
+.head3rd{
+  
+    height: 40%;
+    width: 80%; 
+    margin-left: 140px;
+    background-color: lightgreen;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.head3rd li {
+    list-style: inside;
+    padding: 10px;
+}
+
+h1{
+    padding: 10px;
+}
+
+
+.head4th{
+    height: 13%;
+    width: 80%;
+    margin-left: 140px;
+    background-color: orange;
+}
+
+p{
+    text-align: center;
+}
